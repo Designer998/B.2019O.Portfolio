@@ -1,4 +1,4 @@
-## Welcome to Ben's Programming Portfolio
+# Welcome to Ben's Programming Portfolio
 ### 2018-2019 Programming 1 | benjogde9673@granitesd.org
 
 ## Object Oriented Calculator
