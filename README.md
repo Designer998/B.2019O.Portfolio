@@ -3,4 +3,4 @@
 
 ## Object Oriented Calculator
 Description - why stand out
-[Calculator](https://github.com/Designer998/B.2019O.Portfolio/blob/master/Calc/Calc.png)
+[Calculator]: https://github.com/Designer998/B.2019O.Portfolio/blob/master/Calc/Calc.png
