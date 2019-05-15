@@ -14,7 +14,7 @@ This Calculator has most of the original functions of a normal calculator, besid
 This app shows moving cars with different speeds and included trucks as well as cars (size and position difference). This can be used as a screensavor, though the speed should deffinitely be slowed if it is to work well (for the computer and you).
 ##
 
-### World Civilizations TimeLine
+### World Civilizations Time Line
 ![TimeLine](https://github.com/Designer998/B.2019O.Portfolio/blob/master/TimeLine/TimeLine.png)
 
 I made this app for a project in World Civilizations, and so it shows the different civilizations and gives relatively important information about each. It provides an interactive experience (semi-interactive) for the user, and is filled with color so that it isn't extremely dull.
