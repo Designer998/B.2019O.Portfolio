@@ -9,3 +9,5 @@ This Calculator has most of the original functions of a normal calculator, besid
 
 ### Moving Cars
 ![Moving cars](https://github.com/Designer998/B.2019O.Portfolio/blob/master/Cars/Cars.png)
+
+This app shows moving cars with different speeds and included trucks as well as cars (size and position difference). This can be used as a screensavor, though the speed should deffinitely be slowed if it is to work well (for the computer and you).
