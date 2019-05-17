@@ -22,3 +22,5 @@ I made this app for a project in World Civilizations, and so it shows the differ
 
 ### Shape Calculator
 ![ShapeTester](https://github.com/Designer998/B.2019O.Portfolio/blob/master/ShapeTester/ShapeTester.png)
+
+This is a useful app, as it can calculate the Volume and the Surface Area of 3 shapes: Cubes, Spheres, and Pyramids. This list might continue, as I'll update it with new shapes and maybe add a GUI. As you can see, it asks you questions about what you want it to calculate, and in return you answer with a letter, word, and number.
