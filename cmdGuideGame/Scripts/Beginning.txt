@@ -1,0 +1,57 @@
+Colin Oremland
+Start: ^You wake up to the sounds of alarms and people running around frantically^
+^You hear the general ordering people around^
+^He barks something about loss, but you don't understand [about how we lost them during the night]^
+^You sit up, looking all around to identify your location^ // Ben
+^You stand, realizing that you're at a military post near the front lines^ // Ben
+^Out of the corner of your eye you see a suspicious shadow darting behind a corner^
+^Do you...^
+
+^1a) Follow the shadow around the corner^
+^You dart up out of bed and chase the shadow, you yell at it but the figure keeps running^
+^Right before you go around the corner, a large door closes and locks^
+^The door blocks you from chasing the shadow any farther^ ^You see a hallway to the side^
+^You could take the long way around and try to catch up with the shadow[1b]^
+^or try to open the door[2b]^
+
+^2a) Ignore the shadow and help the general^
+^you shrug off the shadow and assume you must still be half asleep^
+^you get up and get your gear and head over to the general^
+^He's yelling and mad^
+^he points at you with orders to help set up a perimeter on the east side of the base^
+^He tells you to not let anyone in or out without his authorization^
+^on your way outside you catch a glimpse of movement^
+^You look in that direction but dont see anything^
+^One of your officers yells at you to get to your post^
+^You could disobey orders and investigate the movement [1d]^
+^You could ignore it and follow the general's orders by heading to your post [2d]^
+
+^1b)^
+^You take off sprinting down the hallway trying to gain a little lost ground on the shadow^
+^when your hallway meets back up with the main hallway you see the figure at the end^
+^you lock eyes with the shadow for a split second^
+^You're not sure from where but you recognize them^
+^they take off again but they drop a piece of paper^
+^You grab the piece of paper and read it^ ^or at least you try to but it just looks like giberish^
+^You could report what happened back to the general [1c]^
+^You could keep this a secret and return the general [2c]^
+
+^2b)^
+^You turn to the key pad next to the door and start entering your access code^
+^you enter your code and the door unlocks and you open it^
+^you dont see a trace of the person and look around for a minute^
+^You turn around and see a couple of your squadmates jogging over to you^
+^they ask you what happened and why you took off running^
+^you tell them you saw someone running this way^
+^they look at you like you are crazy and they say that you are needed back in the main room^
+^you give up and follow them^
+^The general says that some of the prisoners have escaped and they had help^
+^You could report what happened [1e]^ ^You could await orders[2e]^
+
+^1c)^
+
+^2c)^
+
+
+
+

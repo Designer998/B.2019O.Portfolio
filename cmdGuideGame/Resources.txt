@@ -1,0 +1,27 @@
+CMD help + guide
+https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/
+* https://www.digitaltrends.com/computing/how-to-use-command-prompt/
+
+Web Running App: help
+https://www.quora.com/How-do-I-link-a-C++-program-with-an-HTML-page
+https://www.webtoolkit.eu/wt
+
+Terminus: the example
+https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
+
+code-behind
+https://en.wikipedia.org/wiki/ASP.NET#Code-behind_model
+https://en.wiktionary.org/wiki/code-behind
+
+CMD Display ideas
+https://drive.google.com/open?id=1D32w3OJ-Dw8LK8F-f32-7-7zRuogHTdQ
+https://drive.google.com/open?id=1tSK6kdQ30OYRkoHnTIXliy9CY7DI604_
+####### CMD Library of Commands
+https://ss64.com/
+
+Git
+https://git-scm.com/
+https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
+
+Parsing
+https://www.geeksforgeeks.org/split-a-sentence-into-words-in-cpp/
