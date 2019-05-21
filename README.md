@@ -29,5 +29,4 @@ This app can be used as a screensavor and you can change the lightness of the li
 
 I made this app for a project in World Civilizations, and so it shows the different civilizations and gives relatively important information about each. It provides an interactive experience (semi-interactive) for the user, and is filled with color so that it isn't extremely dull.
 
-## 2018-2019 Programming 1 | 
-(Creator Email Address)[benjogde9673@granitesd.org]
+## 2018-2019 Programming 1 | [benjogde9673@granitesd.org]
