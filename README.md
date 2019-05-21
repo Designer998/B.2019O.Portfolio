@@ -24,4 +24,8 @@ I made this app for a project in World Civilizations, and so it shows the differ
 This is a useful app, as it can calculate the Volume and the Surface Area of 3 shapes: Cubes, Spheres, and Pyramids. This list might continue, as I'll update it with new shapes and maybe add a GUI. As you can see, it asks you questions about what you want it to calculate, and in return you answer with a letter, word, and number.
 ##
 
+### Line Mapping
+![Lines](https://github.com/Designer998/B.2019O.Portfolio/blob/master/Lines/Lines.png)
+
+This app can be used as a screensavor and can change the lightness of the lines. It starts a ton of lines at random points and goes all over, turning randomly and making intricate designs.
 ## 2018-2019 Programming 1 | benjogde9673@granitesd.org
