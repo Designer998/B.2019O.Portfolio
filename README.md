@@ -27,5 +27,5 @@ This is a useful app, as it can calculate the Volume and the Surface Area of 3 s
 ### Line Mapping
 ![Lines](https://github.com/Designer998/B.2019O.Portfolio/blob/master/Lines/Lines.png)
 
-This app can be used as a screensavor and can change the lightness of the lines. It starts a ton of lines at random points and goes all over, turning randomly and making intricate designs.
+This app can be used as a screensavor and you can change the lightness of the lines to make the lines black, white, gray, etc. It starts a ton of lines at random points and goes all over, turning randomly and making intricate designs.
 ## 2018-2019 Programming 1 | benjogde9673@granitesd.org
